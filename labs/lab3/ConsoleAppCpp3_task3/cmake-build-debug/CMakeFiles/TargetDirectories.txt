@@ -1,0 +1,3 @@
+/Users/imac/CLionProjects/lab3/ConsoleAppCpp3_task3/cmake-build-debug/CMakeFiles/ConsoleAppCpp3_task3.dir
+/Users/imac/CLionProjects/lab3/ConsoleAppCpp3_task3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/imac/CLionProjects/lab3/ConsoleAppCpp3_task3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

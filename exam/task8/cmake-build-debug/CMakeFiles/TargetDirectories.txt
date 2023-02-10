@@ -1,0 +1,3 @@
+/Users/imac/CLionProjects/itmo/exam/task8/cmake-build-debug/CMakeFiles/task8.dir
+/Users/imac/CLionProjects/itmo/exam/task8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/imac/CLionProjects/itmo/exam/task8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
